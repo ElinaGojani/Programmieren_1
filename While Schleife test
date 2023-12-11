@@ -1,0 +1,4 @@
+durchgang = 1
+while durchgang < 11:
+    print(durchgang)
+print("nach der Schleife")
