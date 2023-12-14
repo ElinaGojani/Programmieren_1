@@ -1,0 +1,3 @@
+# Listen in Python
+vornamen = ['Axel', 'Elke', 'Martin']
+print(vornamen[1])
