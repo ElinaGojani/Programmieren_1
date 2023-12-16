@@ -1,0 +1,5 @@
+print(2*(3+3)*4) 
+print(4-1)   # Subtraktion
+print(17/8)  # Division
+print(6%4)   # Division mit Rest
+print(5**2)  # Quadratwurzel
